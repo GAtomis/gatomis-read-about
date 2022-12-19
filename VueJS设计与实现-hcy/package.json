@@ -1,0 +1,10 @@
+{
+
+
+	"name": "gatomis-read-about",
+	"private": true,
+	"version": "0.0.0",
+	"devDependencies": {
+		"rollup": "^3.7.5"
+	}
+}
